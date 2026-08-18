@@ -34,9 +34,20 @@ PostgreSQL.
 - Checkout form
 - PostgreSQL checkout storage
 
-## Project Structure
+## Local Setup
 
-```text
-frontend/
-backend/
-database/
+### Backend
+
+```Bash
+cd backend
+npm install
+npm run dev
+```
+
+### Frontend
+
+```Bash
+cd frontend
+npm install
+npm run dev
+```
